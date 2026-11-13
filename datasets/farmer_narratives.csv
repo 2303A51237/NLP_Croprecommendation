@@ -1,0 +1,4 @@
+farmer_description,language,soil_type,water_availability,rainfall_level,nitrogen,phosphorus,potassium,temperature,humidity,ph,rainfall,season,validation_status,record_origin
+"Synthetic example: My sandy field has nitrogen 80, phosphorus 40, potassium 40, temperature 25 C, humidity 70%, pH 6.5 and rainfall 600 mm. Water is moderate during kharif.",en,sandy,medium,medium,80,40,40,25,70,6.5,600,kharif,synthetic_unvalidated,synthetic
+"Synthetic example: Clay soil; measured N=100, P=50, K=60, temperature 28 C, humidity 65%, pH 7 and rainfall 900 mm. Heavy rainfall in monsoon.",en,clay,unknown,high,100,50,60,28,65,7,900,monsoon,synthetic_unvalidated,synthetic
+"Synthetic example: Loamy soil with limited water; N 55, P 30, K 35, temperature 22 C, humidity 55%, pH 6.8 and rainfall 450 mm in rabi.",en,loamy,low,low,55,30,35,22,55,6.8,450,rabi,synthetic_unvalidated,synthetic
